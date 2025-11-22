@@ -8,4 +8,4 @@ and to build intuition through **code, plots, and simulations**.
 
 > ⚠️ Disclaimer: This repo is not a polished library or a structured course.
 > It’s mostly a collection of personal experiments, rough notebooks, and
-> scratch code as I learn Bayesian statistics 😅
+> scratch code as I learn Bayesian statistics.
